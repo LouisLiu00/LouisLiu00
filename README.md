@@ -106,7 +106,7 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/> </a>
     <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/> </a>
     <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
-    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://img.cdn.aliyun.dcloud.net.cn/hbuilderx/website/en/icon/hx_icon@2x.png" alt="hbuilderx" height="40"/> </a>
+    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://1967399885.hiecheimaetu.com:22443/qn-324ELNAp8KSZLNhoiFj4uMVYtWjsUJSk2XG0aLw4.img.cdn.aliyun.dcloud.net.cn/hbuilderx/website/en/icon/hx_icon@2x.png" alt="hbuilderx" height="40"/> </a>
     <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/> </a>
     <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/> </a>
 </p>
