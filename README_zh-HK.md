@@ -2,35 +2,35 @@
 
 [English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
 
-<h2>👋 About Me</h2>
+<h2>👋 關於我</h2>
 
-Hello, I'm **<font color="#03A9F4">{Louis}</font>**, a **<font color="#F31199">{Senior Full-Stack Engineer}</font>**!  🧐
+你好, 我是 **<font color="#03A9F4">{Louis}</font>**, 一個 **<font color="#F31199">{高級全棧工程師}</font>** !  🧐
 
-With a strong foundation in both **{backend}** and **{frontend}** development, I bring a comprehensive skill set to [Untrading.org](https://untrading.org). My expertise in **{Java}**, **{Vue.js}**, **{Web3}** and **{server deployment}**, combined with my experience in **{project management}** and **{blockchain development}**, makes me an invaluable asset to the team. I continue to drive innovation and excellence, contributing to the growth and success of [@untrading](https://github.com/untrading). 👊
-
-
-
-<h2>📋 Responsibilities</h2>
-
-- **{Project Management}**: Overseeing the technical aspects of various projects, ensuring timely delivery and high-quality output.
-- **{Java Backend Development}**: Architecting and implementing robust server-side solutions.
-- **{Vue Frontend Development}**: Creating responsive and intuitive user interfaces.
-- **{Web3 and Blockchain Integration}**: Developing and implementing blockchain-based features and functionalities.
-- **{Linux Cloud Server Deployment and Maintenance}**: Ensuring smooth operation and optimal performance of cloud-based infrastructure.
+憑借在 **{後端}** 和 **{前端}** 開發方面的堅實基礎，我為 [Untrading.org](https://untrading.org) 帶來了全面的技能。我在 **{Java}**、**{Vue.js}**、**{Web3}** 和 **{服務器部署}** 方面的專業知識，加上我在 **{項目管理}** 和 **{區塊鏈開發}** 方面的經驗，使我成為團隊的寶貴財富。我將繼續推動創新和卓越，為 [@untrading](https://github.com/untrading) 的成長和成功做出貢獻。👊
 
 
 
-<h2>🏆 GitHub Activity</h2>
+<h2>📋 職責</h2>
+
+- **{項目管理}**: 監督各個項目的技術方面，確保及時交付和高質量輸出。
+- **{Java 後端開發}**: 構建和實現強大的服務器端解決方案。
+- **{Vue 前端開發}**: 創建響應式且直觀的用戶界面。
+- **{Web3 和區塊鏈集成}**: 開發和實現基於區塊鏈的特性的功能。
+- **{Linux 雲服務器部署和維護}**: 確保雲基礎設施的平穩運行和最佳性能。
+
+
+
+<h2>🏆 GitHub 活動</h2>
 
 <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=LouisLiu00&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LouisLiu00&theme=merko&custom_title=Louis%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LouisLiu00&theme=merko&custom_title=Louis%20活動圖&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
 
 
 
-<h2>🔧 Languages and Tools</h2>
+<h2>🔧 語言和工具</h2>
 
 <p align="left">
 	<!-- ********** A ********** -->
@@ -100,7 +100,7 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
 
 
 
-<h2>💻 IDE (Integrated Development Environment)</h2>
+<h2>💻 IDE (集成開發環境)</h2>
 
 <p>
 	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/> </a>
@@ -114,7 +114,7 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
 </p>
 
 
-<h2>💬 Connect with me</h2>
+<h2>💬 與我聯係</h2>
 
 <p align="left">
     <a href="https://github.com/LouisLiu00" target="blank">
@@ -154,9 +154,9 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
 
 
 
-<h2>💰 Donations</h2>
+<h2>💰 捐贈</h2>
 
-if you like what i do, maybe consider buying me a coffee. 🍵 Also, cryptocurrency is also a good way! 🤑
+如果你喜歡我做的事情，也許可以考慮請我喝杯咖啡。🍵 另外，加密貨幣也是一個好方法！🤑
 
 <a href="https://buymeacoffee.com/louisliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>

@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-[English](./README.md) | [简体中文](./README_zh-CN.md)
+[English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
 
 <h2>👋 关于我</h2>
 
@@ -13,7 +13,7 @@
 <h2>📋 职责</h2>
 
 - **{项目管理}**: 监督各个项目的技术方面，确保及时交付和高质量输出。
-- **{Java 后端开发}**: 构建和实现强大的服务器端解决方案
+- **{Java 后端开发}**: 构建和实现强大的服务器端解决方案。
 - **{Vue 前端开发}**: 创建响应式且直观的用户界面。
 - **{Web3 和区块链集成}**: 开发和实现基于区块链的特性和功能。
 - **{Linux 云服务器部署和维护}**: 确保云基础设施的平稳运行和最佳性能。
