@@ -89,7 +89,7 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="40"/> </a> 
     <a href="https://vuetifyjs.com" target="_blank"> <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-text-logo-light.svg" alt="Vuetify" height="40"/> </a>
     <!-- ********** W ********** -->
-    <a href="https://walletconnect.com" target="_blank"> <img src="https://walletconnect.com/static/favicon.png" alt="walletconnect" height="40"/> </a>
+    <a href="https://walletconnect.network" target="_blank"> <img src="https://walletconnect.network/favicon.ico" alt="walletconnect" height="40"/> </a>
     <a href="https://web3js.org" target="_blank"> <img src="https://web3js.org/web3js.png" alt="web3js" height="40"/> </a>
     <a href="https://www.web3labs.com/web3j-sdk" target="_blank"> <img src="https://www.web3labs.com/hubfs/favicon.svg" alt="Web3j" height="40"/> </a>
     <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" height="40"/> </a>
