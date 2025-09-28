@@ -63,7 +63,7 @@
     <!-- ********** L ********** -->
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> </a> 
 	<!-- ********** M ********** -->
-    <a href="https://metamask.io" target="_blank"> <img src="https://metamask.io/images/metamask-logo.png" alt="metamask" height="40"/> </a> 
+    <a href="https://metamask.io" target="_blank"> <img src="https://images.ctfassets.net/clixtyxoaeas/1ezuBGezqfIeifWdVtwU4c/d970d4cdf13b163efddddd5709164d2e/MetaMask-icon-Fox.svg" alt="metamask" height="40"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> </a> 
 	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40"/> </a> 
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a> 
@@ -108,7 +108,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/> </a>
     <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/> </a>
     <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
-    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://1967399885.hiecheimaetu.com:22443/qn-324ELNAp8KSZLNhoiFj4uMVYtWjsUJSk2XG0aLw4.img.cdn.aliyun.dcloud.net.cn/hbuilderx/website/en/icon/hx_icon@2x.png" alt="hbuilderx" height="40"/> </a>
+    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://web-ext-storage.dcloud.net.cn/static/hbuilderx/icon/hbuilderx_icon@2x.png" alt="hbuilderx" height="40"/> </a>
     <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/> </a>
     <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/> </a>
 </p>
@@ -162,7 +162,7 @@
 <br/>
 <a href="https://bitcoin.org" target="_blank"> <img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></a> <b>bc1q27n4hmdtvz32rnvds7k36hzwykdkhvv4jmjsvl</b>
 <br/>
-<a href="https://ethereum.org" target="_blank"> <img src="https://ethereum.org/images/favicon.png" alt="ethereum" height="40" /></a> <b>0x933851f59F2C7213dDaDbEa50d9f095909dE7101</b>
+<a href="https://ethereum.org" target="_blank"> <img src="https://ethereum.org/favicon.ico" alt="ethereum" height="40" /></a> <b>0x933851f59F2C7213dDaDbEa50d9f095909dE7101</b>
 <br/>
 <a href="https://solana.com" target="_blank"> <img src="https://solana.com/favicon.svg" alt="solana" height="40" /></a> <b>CqCk134Wx1HA71v2nzXzptNKXDWjixDGw53HpgisH5G</b>
 <br/>
