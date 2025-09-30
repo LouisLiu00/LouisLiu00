@@ -6,7 +6,7 @@
 
 Hello, I'm **<font color="#03A9F4">{Louis}</font>**, a **<font color="#F31199">{Senior Full-Stack Engineer}</font>**!  🧐
 
-With a strong foundation in both **{backend}** and **{frontend}** development, I bring a comprehensive skill set to [Untrading.org](https://untrading.org). My expertise in **{Java}**, **{Vue.js}**, **{Web3}** and **{server deployment}**, combined with my experience in **{project management}** and **{blockchain development}**, makes me an invaluable asset to the team. I continue to drive innovation and excellence, contributing to the growth and success of [@untrading](https://github.com/untrading). 👊
+With a strong foundation in both **{backend}** and **{frontend}** development, I bring a comprehensive skill set to [Untrading.org](https://untrading.org). My expertise in **{Java}**, **{Next.js}**, **{Vue.js}**, **{Web3}** and **{server deployment}**, combined with my experience in **{project management}** and **{blockchain development}**, makes me an invaluable asset to the team. I continue to drive innovation and excellence, contributing to the growth and success of [@untrading](https://github.com/untrading). 👊
 
 
 

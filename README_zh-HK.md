@@ -6,7 +6,7 @@
 
 你好, 我是 **<font color="#03A9F4">{Louis}</font>**, 一個 **<font color="#F31199">{高級全棧工程師}</font>** !  🧐
 
-憑借在 **{後端}** 和 **{前端}** 開發方面的堅實基礎，我為 [Untrading.org](https://untrading.org) 帶來了全面的技能。我在 **{Java}**、**{Vue.js}**、**{Web3}** 和 **{服務器部署}** 方面的專業知識，加上我在 **{項目管理}** 和 **{區塊鏈開發}** 方面的經驗，使我成為團隊的寶貴財富。我將繼續推動創新和卓越，為 [@untrading](https://github.com/untrading) 的成長和成功做出貢獻。👊
+憑借在 **{後端}** 和 **{前端}** 開發方面的堅實基礎，我為 [Untrading.org](https://untrading.org) 帶來了全面的技能。我在 **{Java}**、**{Next.js}**, **{Vue.js}**、**{Web3}** 和 **{服務器部署}** 方面的專業知識，加上我在 **{項目管理}** 和 **{區塊鏈開發}** 方面的經驗，使我成為團隊的寶貴財富。我將繼續推動創新和卓越，為 [@untrading](https://github.com/untrading) 的成長和成功做出貢獻。👊
 
 
 
