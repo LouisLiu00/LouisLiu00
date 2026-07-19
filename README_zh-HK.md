@@ -22,9 +22,9 @@
 
 <h2>🏆 GitHub 活動</h2>
 
-<p>
+<!-- <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=LouisLiu00&theme=onedark&column=-1&margin-w=15" />
-</p>
+</p> -->
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LouisLiu00&theme=merko&custom_title=Louis%20活動圖&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
 
@@ -52,7 +52,7 @@
 	<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="40"/> </a> 
     <!-- ********** H ********** -->
 	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a> 
-	<a href="https://www.hutool.cn" target="_blank"> <img src="https://plus.hutool.cn/images/hutool.svg" alt="hutool" height="40"/> </a>
+	<a href="https://www.hutool.cn" target="_blank"> <img src="https://www.hutool.cn/images/hutool.svg" alt="hutool" height="40"/> </a>
     <!-- ********** I ********** -->
     <!-- ********** J ********** -->
 	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/> </a>
@@ -69,7 +69,8 @@
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a> 
 	<a href="https://baomidou.com" target="_blank"> <img src="https://baomidou.com/assets/asset.cIbiVTt_.svg" alt="MyBatis-Plus" height="40"/> </a>
     <!-- ********** N ********** -->
-	<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a> 
+	<a href="https://nextjs.org" target="_blank"> <img src="https://nextjs.org/favicon.ico" alt="Next.js" height="40"/> </a> 
+    <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a> 
 	<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> </a> 
 	<!-- ********** O ********** -->
 	<!-- ********** P ********** -->
@@ -85,6 +86,7 @@
     <a href="https://cloud.tencent.com/" target="_blank"> <img src="https://cloudcache.tencent-cloud.com/qcloud/favicon.ico" alt="tencent-cloud" height="40"/> </a>
 	<!-- ********** U ********** -->
 	<!-- ********** V ********** -->
+    <a href="https://vercel.com/home" target="_blank"> <img src="https://nextjs.org/_next/static/immutable/media/vercel-logotype-light.0k7echqflwha4.svg" alt="Vercel" height="30"/> </a> 
     <a href="https://vitejs.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" height="40"/> </a> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="40"/> </a> 
     <a href="https://vuetifyjs.com" target="_blank"> <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-text-logo-light.svg" alt="Vuetify" height="40"/> </a>
@@ -164,7 +166,5 @@
 <br/>
 <a href="https://ethereum.org" target="_blank"> <img src="https://ethereum.org/favicon.ico" alt="ethereum" height="40" /></a> <b>0x933851f59F2C7213dDaDbEa50d9f095909dE7101</b>
 <br/>
-<a href="https://solana.com" target="_blank"> <img src="https://solana.com/favicon.svg" alt="solana" height="40" /></a> <b>CqCk134Wx1HA71v2nzXzptNKXDWjixDGw53HpgisH5G</b>
+<a href="https://solana.com" target="_blank"> <img src="https://www.google.com/s2/favicons?domain=solana.com&sz=128" alt="solana" height="40" /></a> <b>CqCk134Wx1HA71v2nzXzptNKXDWjixDGw53HpgisH5G</b>
 <br/>
-
-
