@@ -22,8 +22,6 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
 
 <h2>🏆 GitHub Activity</h2>
 
-![](https://hit.yhype.me/github/profile?account_id=63631719)
-
 <!-- <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=LouisLiu00&theme=onedark&column=-1&margin-w=15" />
 </p> -->
@@ -163,10 +161,11 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
 if you like what i do, maybe consider buying me a coffee. 🍵 Also, cryptocurrency is also a good way! 🤑
 
 <a href="https://buymeacoffee.com/louisliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br/>
-<div style="display: flex; align-items: center;"><a href="https://bitcoin.org" target="_blank"> <img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></a><b style="margin-left: 10px;">bc1q27n4hmdtvz32rnvds7k36hzwykdkhvv4jmjsvl</b></div>
-<br/>
-<div style="display: flex; align-items: center;"><a href="https://ethereum.org" target="_blank"> <img src="https://ethereum.org/favicon.ico" alt="ethereum" height="40" /></a><b style="margin-left: 10px;">0x933851f59F2C7213dDaDbEa50d9f095909dE7101</b></div>
-<br/>
-<div style="display: flex; align-items: center;"><a href="https://solana.com" target="_blank"> <img src="https://www.google.com/s2/favicons?domain=solana.com&sz=128" alt="solana" height="40" /></a><b style="margin-left: 10px;">CqCk134Wx1HA71v2nzXzptNKXDWjixDGw53HpgisH5G</b></div>
-<br/>
+
+<table>
+<tr><th>Crypto</th><th>Address</th></tr>
+<tr><td><img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></td><td><b>bc1q27n4hmdtvz32rnvds7k36hzwykdkhvv4jmjsvl</b></td></tr>
+<tr><td><img src="https://ethereum.org/favicon.ico" alt="ethereum" height="40" /></td><td><b>0x933851f59F2C7213dDaDbEa50d9f095909dE7101</b></td></tr>
+<tr><td><img src="https://www.google.com/s2/favicons?domain=solana.com&sz=128" alt="solana" height="40" /></td><td><b>CqCk134Wx1HA71v2nzXzptNKXDWjixDGw53HpgisH5G</b></td></tr>
+<tr><td></td><td></td></tr>
+</table>

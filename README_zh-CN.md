@@ -161,10 +161,11 @@
 如果你喜欢我做的事情，也许可以考虑请我喝杯咖啡。🍵 另外，加密货币也是一个好方法！🤑
 
 <a href="https://buymeacoffee.com/louisliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br/>
-<div style="display: flex; align-items: center;"><a href="https://bitcoin.org" target="_blank"> <img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></a><b style="margin-left: 10px;">bc1q27n4hmdtvz32rnvds7k36hzwykdkhvv4jmjsvl</b></div>
-<br/>
-<div style="display: flex; align-items: center;"><a href="https://ethereum.org" target="_blank"> <img src="https://ethereum.org/favicon.ico" alt="ethereum" height="40" /></a><b style="margin-left: 10px;">0x933851f59F2C7213dDaDbEa50d9f095909dE7101</b></div>
-<br/>
-<div style="display: flex; align-items: center;"><a href="https://solana.com" target="_blank"> <img src="https://www.google.com/s2/favicons?domain=solana.com&sz=128" alt="solana" height="40" /></a><b style="margin-left: 10px;">CqCk134Wx1HA71v2nzXzptNKXDWjixDGw53HpgisH5G</b></div>
-<br/>
+
+<table>
+<tr><th>加密货币</th><th>地址</th></tr>
+<tr><td><img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></td><td><b>bc1q27n4hmdtvz32rnvds7k36hzwykdkhvv4jmjsvl</b></td></tr>
+<tr><td><img src="https://ethereum.org/favicon.ico" alt="ethereum" height="40" /></td><td><b>0x933851f59F2C7213dDaDbEa50d9f095909dE7101</b></td></tr>
+<tr><td><img src="https://www.google.com/s2/favicons?domain=solana.com&sz=128" alt="solana" height="40" /></td><td><b>CqCk134Wx1HA71v2nzXzptNKXDWjixDGw53HpgisH5G</b></td></tr>
+<tr><td></td><td></td></tr>
+</table>
