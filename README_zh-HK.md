@@ -102,6 +102,18 @@
 
 
 
+<h2>🧑‍💻 氛圍編程 / 規約編程</h2>
+<p>
+	<a href="https://www.trae.ai" target="_blank"> <img src="https://lf16-web-neutral.traecdn.ai/obj/trae-ai-static/trae_website/favicon.png" alt="idea" height="40"/> </a>
+	<a href="https://claude.ai" target="_blank"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" alt="idea" height="40"/> </a>
+    <a href="https://openai.com/zh-Hans-CN/codex/" target="_blank"> <img src="https://images.ctfassets.net/kftzwdyauwt9/77tJ5U1tgxHMZflZ5m4Z24/ace4d8b6ad200d87ebcb69c466344343/Blossom_4k_Icon_1.png?w=1920&q=90&fm=webp" alt="idea" height="40"/> </a>
+    <a href="https://qoder.com/zh" target="_blank"> <img src="https://img.alicdn.com/imgextra/i3/O1CN01KliT1u1jEq947NlKH_!!6000000004517-55-tps-180-180.svg" alt="idea" height="40"/> </a>
+	<a href="https://cursor.com" target="_blank"> <img src="https://cursor.com/marketing-static/favicon-light.svg" alt="idea" height="40"/> </a>
+	<a href="https://www.workbuddy.cn" target="_blank"> <img src="https://download.codebuddy.cn/web/workbuddy/39aa83f6eb1effda3c999259e7db691102ff873f/assets/workbuddy-icon-BujKiC6G.svg" alt="idea" height="40"/> </a>
+</p>
+
+
+
 <h2>💻 IDE (集成開發環境)</h2>
 
 <p>
